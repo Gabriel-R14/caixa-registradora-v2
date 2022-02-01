@@ -1,1 +1,1 @@
-# caixa-registradora-v2
+# Caixa Registradora V2
